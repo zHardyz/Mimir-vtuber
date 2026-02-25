@@ -252,9 +252,4 @@ Para criar modelos 2D animados compatíveis com VTube Studio:
 5. Importe o modelo no VTube Studio
 
 ---
-esse projeto foi feito de maneira simples para ser gratuito e leve, pode haver muita coisa faltando, espero outros projetos com mais complexidade.
-faça melhorias e novas funções e não esqueça de me marcar se for postar!
-
-Desenvolvido por Hardy do canal Hardy_em_jogo no youtube.
-por favor caso utilize o codigo e for postar coloque o link do canal ou dê os devidos creditos.
-Instagram: @hardy-em-jogo
+esse projeto foi feito de maneira simples para ser gratuito e leve, pode haver muita coisa faltando.
